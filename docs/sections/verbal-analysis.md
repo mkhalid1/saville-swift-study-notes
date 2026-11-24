@@ -1,4 +1,4 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Numerical Analysis](numerical-analysis.md)<!-- /nav:top -->
+<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [3-minute diagnostic](../diagnostic.md) · Next: [Numerical Analysis](numerical-analysis.md)<!-- /nav:top -->
 
 # Verbal Analysis
 
@@ -50,7 +50,7 @@ Saville's technical summary gives 6 minutes for 8 questions, which works out to 
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from any Saville test. Choose True, False or Cannot say for each statement. Answer all the statements for a passage before opening the explanations.
+These 3 items are original, written for these notes. They are not taken from any Saville test. Choose True, False or Cannot say for each statement. Answer all the statements for a passage before opening the explanations.
 
 ### Passage 1
 
@@ -62,10 +62,8 @@ These 10 items are original, written for these notes. They are not taken from an
 
 **Item 3.** The operator has stopped accepting cash fares.
 
-**Item 4.** More people travelled on the network after contactless payment was introduced.
-
 <details>
-<summary>Answers and explanations, items 1 to 4</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
 **Item 1: True.** Contactless was introduced "on all of its routes". *Why not Cannot say:* "all of its routes" settles it.
 
@@ -73,61 +71,19 @@ These 10 items are original, written for these notes. They are not taken from an
 
 **Item 3: False.** "Cash is still accepted." *Why not Cannot say:* the passage directly contradicts the statement.
 
-**Item 4: False.** Passenger numbers "were unchanged over the same period". *Why not Cannot say:* the passage gives the figure, and it rules out a rise.
-
-</details>
-
-### Passage 2
-
-> Hartwell Library's study rooms can be booked for up to two hours at a time by members aged 16 and over. Bookings open seven days in advance and must be made online. Members who miss two bookings in a month without cancelling lose booking rights for the following month. Rooms not claimed within 15 minutes of the start time are released to walk-in users.
-
-**Item 5.** A 15-year-old member can book a study room online.
-
-**Item 6.** Most members who book study rooms are students.
-
-**Item 7.** Walk-in users can sometimes use a room that someone else had booked.
-
-<details>
-<summary>Answers and explanations, items 5 to 7</summary>
-
-**Item 5: False.** Rooms can be booked by members aged 16 and over, which rules out a 15-year-old. *Why not Cannot say:* the age rule is explicit.
-
-**Item 6: Cannot say.** The passage says nothing about who books the rooms. It may seem likely that students do, but that is outside knowledge.
-
-**Item 7: True.** A booked room that is not claimed within 15 minutes is released to walk-in users. *Why not Cannot say:* the passage describes exactly this case.
-
-</details>
-
-### Passage 3
-
-> A survey of 1,200 employees at a logistics firm found that 64% would prefer a four-day week with longer daily hours. Support was highest among warehouse staff and lowest among drivers. The firm's board has said it will run a six-month trial at one depot before making any company-wide decision. The trial depot has not yet been chosen.
-
-**Item 8.** Most of the employees surveyed would prefer a four-day week with longer daily hours.
-
-**Item 9.** The firm has decided to introduce a four-day week at all of its depots.
-
-**Item 10.** The trial will take place at a depot where most staff work in the warehouse.
-
-<details>
-<summary>Answers and explanations, items 8 to 10</summary>
-
-**Item 8: True.** 64% is more than half. *Why not Cannot say:* "most" means more than half, and the figure is given.
-
-**Item 9: False.** The board will run a trial "before making any company-wide decision". A decision to roll out everywhere contradicts that.
-
-**Item 10: Cannot say.** The trial depot "has not yet been chosen". Support was highest among warehouse staff, but nothing says the board will pick a warehouse-heavy depot.
-
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | True | Cannot say | False | False | False | Cannot say | True | True | False | Cannot say |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | True | Cannot say | False |
 
-- **9 to 10:** sound. Practise at pace: try the set again in 7 minutes.
-- **7 to 8:** check whether your misses were Cannot say items. If so, reread the traps list, especially outside knowledge.
-- **6 or fewer:** for every statement, point to the exact sentence that decides it before you answer. If you cannot point to one, the answer is Cannot say.
+- **3:** sound. Practise at pace: try the set again in 2 minutes.
+- **2:** check whether your miss was the Cannot say item. If so, reread the traps list, especially outside knowledge.
+- **0 to 1:** for every statement, point to the exact sentence that decides it before you answer. If you cannot point to one, the answer is Cannot say.
+
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
 
 ## Next step
 
@@ -135,4 +91,4 @@ Verbal Analysis is timed tightly. Practise it next to the other two sub-tests in
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Numerical Analysis](numerical-analysis.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->← Previous: [3-minute diagnostic](../diagnostic.md) | Next: [Numerical Analysis](numerical-analysis.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->

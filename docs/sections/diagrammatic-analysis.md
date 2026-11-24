@@ -49,7 +49,7 @@ Saville gives 6 minutes for 8 questions: 45 seconds each. Its practice test runs
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from any Saville test. All of them use the same four operators.
+These 3 items are original, written for these notes. They are not taken from any Saville test. All of them use the same four operators.
 
 ### Work out the operators
 
@@ -68,32 +68,20 @@ Write a rule for each of A, B, C and D before you start the items.
 
 ### Items
 
-**Item 1.** ○■● → A → ?
-
-A. ●■○ &nbsp; B. ○■● &nbsp; C. ●□○ &nbsp; D. ■○● &nbsp; E. ○●■
-
-**Item 2.** ●■○ → C → B → ?
+**Item 1.** ●■○ → C → B → ?
 
 A. ○●■ &nbsp; B. ●●■ &nbsp; C. ○○■ &nbsp; D. ●■● &nbsp; E. ■●○
 
-**Item 3.** ○□ → D → A → ?
-
-A. ●■ &nbsp; B. □○ &nbsp; C. ■● &nbsp; D. ○□ &nbsp; E. ●□
-
-**Item 4.** ●○■ → B → ? → ●●□. Which operator is missing?
-
-A. Operator A &nbsp; B. Operator B &nbsp; C. Operator C &nbsp; D. Operator D &nbsp; E. No single operator works
-
-**Item 5.** ? → D → ○■●. What was the input?
-
-A. ●■○ &nbsp; B. ●□○ &nbsp; C. ○□● &nbsp; D. ○■● &nbsp; E. ●□●
-
-**Item 6.** ? → A → C → □●○. What was the input?
+**Item 2.** ? → A → C → □●○. What was the input?
 
 A. □●○ &nbsp; B. ○●□ &nbsp; C. □○● &nbsp; D. ●○□ &nbsp; E. ●□○
 
+**Item 3.** Which single operator turns ■●○ into ○●■?
+
+A. Operator A &nbsp; B. Operator B &nbsp; C. Operator C &nbsp; D. Operator D &nbsp; E. None of them
+
 <details>
-<summary>Answers and explanations: the operators and items 1 to 6</summary>
+<summary>Answers and explanations: the operators and items 1 to 3</summary>
 
 **The operators.**
 
@@ -102,58 +90,25 @@ A. □●○ &nbsp; B. ○●□ &nbsp; C. □○● &nbsp; D. ●○□ &nbsp; 
 - **C moves the last shape to the front.** Example 6 confirms it on a row of four.
 - **D flips the colour of every shape.**
 
-**Item 1: A, ●■○.** Reversing ○■● gives ●■○.
+**Item 1: B, ●●■.** C moves the last shape to the front: ●■○ becomes ○●■. B flips the first shape: ○ becomes ●, giving ●●■. *Why not A:* ○●■ is the row after C only.
 
-**Item 2: B, ●●■.** C moves the last shape to the front: ●■○ becomes ○●■. B flips the first shape: ○ becomes ●, giving ●●■. *Why not A:* ○●■ is the row after C only.
+**Item 2: C, □○●.** Undo the last step first. C moved the last shape to the front, so move the first shape to the end: □●○ becomes ●○□. Then undo A by reversing: □○●. *Check:* □○● → A → ●○□ → C → □●○.
 
-**Item 3: C, ■●.** D flips both colours: ○□ becomes ●■. A reverses: ■●. *Why not A:* ●■ is the row after D only.
-
-**Item 4: D, operator D.** After B, the row is ○○■. Only D turns ○○■ into ●●□, by flipping every colour. *Why not A or C:* both give ■○○.
-
-**Item 5: B, ●□○.** D flips every colour, so undo it by flipping back: ○■● becomes ●□○.
-
-**Item 6: C, □○●.** Undo the last step first. C moved the last shape to the front, so move the first shape to the end: □●○ becomes ●○□. Then undo A by reversing: □○●. *Check:* □○● → A → ●○□ → C → □●○.
-
-</details>
-
-**Item 7.** ●●○■ → C → C → ?
-
-A. ■●●○ &nbsp; B. ○■●● &nbsp; C. ●○■● &nbsp; D. ■○●● &nbsp; E. ●●■○
-
-**Item 8.** Which single operator turns ■●○ into ○●■?
-
-A. Operator A &nbsp; B. Operator B &nbsp; C. Operator C &nbsp; D. Operator D &nbsp; E. None of them
-
-**Item 9.** ○○● → D → B → A → ?
-
-A. ●●○ &nbsp; B. ○●○ &nbsp; C. ●○● &nbsp; D. ○○● &nbsp; E. ●○○
-
-**Item 10.** Which of these pairs, applied in the order shown, turns ●○□ into ■●○?
-
-A. A, then B &nbsp; B. B, then C &nbsp; C. C, then B &nbsp; D. D, then C &nbsp; E. B, then D
-
-<details>
-<summary>Answers and explanations, items 7 to 10</summary>
-
-**Item 7: B, ○■●●.** First C: ●●○■ becomes ■●●○. Second C: ■●●○ becomes ○■●●. *Why not A:* that is the row after one C.
-
-**Item 8: A, operator A.** Reversing ■●○ gives ○●■. *Why not C:* C gives ○■●, which has the right first shape but the wrong order after it.
-
-**Item 9: B, ○●○.** D: ○○● becomes ●●○. B flips the first shape: ○●○. A reverses ○●○, which reads the same both ways: ○●○.
-
-**Item 10: C, C then B.** C: ●○□ becomes □●○. B flips the first shape: ■●○. *Check the others:* A then B gives ■○●, B then C gives □○○, D then C gives ■○●, B then D gives ●●■.
+**Item 3: A, operator A.** Reversing ■●○ gives ○●■. *Why not C:* C gives ○■●, which has the right first shape but the wrong order after it.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | A | B | C | D | B | C | B | A | B | C |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | B | C | A |
 
-- **9 to 10:** you have the method. Next, practise with drawn shapes under time.
-- **7 to 8:** your slips are probably in chains (items 2, 7, 9) or working backwards (items 5, 6). Write the row down after every step.
-- **6 or fewer:** go back to the examples table and make sure each rule fits both of its examples before using it.
+- **3:** you have the method. Next, practise with drawn shapes under time.
+- **2:** your slips are probably in chains (item 1) or working backwards (item 2). Write the row down after every step.
+- **0 to 1:** go back to the examples table and make sure each rule fits both of its examples before using it.
+
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
 
 ## Next step
 

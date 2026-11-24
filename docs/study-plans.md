@@ -2,16 +2,16 @@
 
 # Study plans
 
-Two plans: one for a week, one for when the link has already arrived. Each has a row for each test, so follow the column for yours. Both start with the [15-minute diagnostic](diagnostic.md). Expect 30 to 60 minutes a day on the 7-day plan: Swift tests are short, and short focused sessions suit them.
+Two plans: one for a week, one for when the link has already arrived. Each has a row for each test, so follow the column for yours. Both start with the [3-minute diagnostic](diagnostic.md). Expect 30 to 60 minutes a day on the 7-day plan: Swift tests are short, and short focused sessions suit them.
 
 ## 7-day plan
 
 | Day | Swift Analysis | Swift Comprehension |
 |---|---|---|
 | 1 | Read the [overview](test-overview.md) and confirm [which test you have](which-swift-test.md). Do the diagnostic, Track 1. | Same, Track 2. |
-| 2 | [Verbal Analysis](sections/verbal-analysis.md): method, traps, 10 items. | [Verbal Comprehension](sections/verbal-comprehension.md): method, traps, 10 items. |
-| 3 | [Numerical Analysis](sections/numerical-analysis.md): 10 items with a calculator. | [Numerical Comprehension](sections/numerical-comprehension.md): 10 items. |
-| 4 | [Diagrammatic Analysis](sections/diagrammatic-analysis.md): learn the operators, 10 items. | [Error Checking](sections/error-checking.md): 10 items, then redo them faster. |
+| 2 | [Verbal Analysis](sections/verbal-analysis.md): method, traps, 3 items. | [Verbal Comprehension](sections/verbal-comprehension.md): method, traps, 3 items. |
+| 3 | [Numerical Analysis](sections/numerical-analysis.md): 3 items with a calculator. | [Numerical Comprehension](sections/numerical-comprehension.md): 3 items. |
+| 4 | [Diagrammatic Analysis](sections/diagrammatic-analysis.md): learn the operators, 3 items. | [Error Checking](sections/error-checking.md): 3 items, then redo them faster. |
 | 5 | Timed run: the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift). Read the [timing guide](timing.md). | Timed run: Saville's own Swift Comprehension practice test. Read the [timing guide](timing.md). |
 | 6 | Redo your weakest sub-test's items without answers. Then Saville's own Swift Analysis practice test. | Redo your weakest sub-test's items without answers. Then the PrepClubs test for extra verbal and numerical practice. |
 | 7 | One more timed run in the morning. Read the [checklist](test-day-checklist.md). Rest. | Same. |
@@ -29,8 +29,8 @@ Keep the list. The same two or three slips usually repeat, and fixing them is wo
 | When | What to do |
 |---|---|
 | Day 1, morning | Do your track of the [diagnostic](diagnostic.md). Read the method and traps for your weakest sub-test. |
-| Day 1, afternoon | Do that sub-test's 10 items. Review every miss. |
-| Day 1, evening | Read the methods for the other two sub-tests. Do five items from each. |
+| Day 1, afternoon | Do that sub-test's 3 items. Review every miss. |
+| Day 1, evening | Read the methods for the other two sub-tests. Do the 3 items from each. |
 | Day 2, morning | One timed run: Saville's own practice test for your version, then the PrepClubs test if you have Swift Analysis. |
 | Day 2, afternoon | Read the [timing guide](timing.md) and [checklist](test-day-checklist.md). Take the real test while fresh. |
 

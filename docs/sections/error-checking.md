@@ -40,7 +40,7 @@ In Saville's own practice test (checked 24 November 2026), Error Checking shows 
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from any Saville test. Each shows four original rows and a copy. Which row of the copy contains an error? Time yourself: aim for 2 minutes for all ten.
+These 3 items are original, written for these notes. They are not taken from any Saville test. Each shows four original rows and a copy. Which row of the copy contains an error? Time yourself: aim for 40 seconds for all three.
 
 **Item 1.**
 
@@ -96,44 +96,8 @@ Row 4  Dr S. Mehta | 9 Elm Court | LS17 5AN
 
 A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
 
-**Item 4.**
-
-```
-Original
-Row 1  SKU 40-1187-B | Qty 24 | Bay 7
-Row 2  SKU 40-1192-A | Qty 6 | Bay 3
-Row 3  SKU 40-1205-C | Qty 48 | Bay 12
-Row 4  SKU 40-1211-A | Qty 15 | Bay 9
-
-Copy
-Row 1  SKU 40-1187-B | Qty 24 | Bay 7
-Row 2  SKU 40-1192-A | Qty 6 | Bay 3
-Row 3  SKU 40-1205-C | Qty 48 | Bay 12
-Row 4  SKU 40-1211-A | Qty 15 | Bay 6
-```
-
-A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
-
-**Item 5.**
-
-```
-Original
-Row 1  Account 30418827 | Sort code 20-45-61
-Row 2  Account 30419902 | Sort code 20-45-61
-Row 3  Account 30427715 | Sort code 40-12-08
-Row 4  Account 30431146 | Sort code 40-12-08
-
-Copy
-Row 1  Account 30418827 | Sort code 20-45-61
-Row 2  Account 30419092 | Sort code 20-45-61
-Row 3  Account 30427715 | Sort code 40-12-08
-Row 4  Account 30431146 | Sort code 40-12-08
-```
-
-A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
-
 <details>
-<summary>Answers and explanations, items 1 to 5</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
 **Item 1: B, Row 2.** The amount £906.00 was copied as £960.00. The last two digits were swapped.
 
@@ -141,126 +105,19 @@ A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
 
 **Item 3: C, Row 3.** The surname Lindqvist was copied as Lindquist: the v became a u.
 
-**Item 4: D, Row 4.** The bay number 9 was copied as 6.
-
-**Item 5: B, Row 2.** The account number 30419902 was copied as 30419092. The 9 and the 0 in the middle were swapped. Reading it in pairs, 30 41 99 02 against 30 41 90 92, shows the difference.
-
-</details>
-
-**Item 6.**
-
-```
-Original
-Row 1  Flight BA2471 | Dep 07:55 | Gate 14
-Row 2  Flight EZ8013 | Dep 08:20 | Gate 9
-Row 3  Flight FR6620 | Dep 08:40 | Gate 22
-Row 4  Flight LS1129 | Dep 09:05 | Gate 17
-
-Copy
-Row 1  Flight BA2471 | Dep 07:55 | Gate 14
-Row 2  Flight EZ8013 | Dep 08:20 | Gate 9
-Row 3  Flight FR6620 | Dep 08:40 | Gate 22
-Row 4  Flight LS1129 | Dep 09:05 | Gate 17
-```
-
-A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
-
-**Item 7.**
-
-```
-Original
-Row 1  Patient ref H-77310 | Ward 5 | Bed 12
-Row 2  Patient ref H-77324 | Ward 3 | Bed 4
-Row 3  Patient ref H-77338 | Ward 5 | Bed 9
-Row 4  Patient ref H-77341 | Ward 2 | Bed 15
-
-Copy
-Row 1  Patient ref H-77310 | Ward 5 | Bed 21
-Row 2  Patient ref H-77324 | Ward 3 | Bed 4
-Row 3  Patient ref H-77338 | Ward 5 | Bed 9
-Row 4  Patient ref H-77341 | Ward 2 | Bed 15
-```
-
-A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
-
-**Item 8.**
-
-```
-Original
-Row 1  Invoice 2026/0915 | Net £3,640 | VAT £728
-Row 2  Invoice 2026/0916 | Net £1,205 | VAT £241
-Row 3  Invoice 2026/0917 | Net £880 | VAT £176
-Row 4  Invoice 2026/0918 | Net £5,010 | VAT £1,002
-
-Copy
-Row 1  Invoice 2026/0915 | Net £3,640 | VAT £728
-Row 2  Invoice 2026/0916 | Net £1,205 | VAT £241
-Row 3  Invoice 2026/0917 | Net £880 | VAT £167
-Row 4  Invoice 2026/0918 | Net £5,010 | VAT £1,002
-```
-
-A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
-
-**Item 9.**
-
-```
-Original
-Row 1  Policy PX-55120-K | Renewal 01/09
-Row 2  Policy PX-55128-M | Renewal 15/09
-Row 3  Policy PX-55133-K | Renewal 22/09
-Row 4  Policy PX-55141-T | Renewal 30/09
-
-Copy
-Row 1  Policy PX-55120-K | Renewal 01/09
-Row 2  Policy PX-55128-N | Renewal 15/09
-Row 3  Policy PX-55133-K | Renewal 22/09
-Row 4  Policy PX-55141-T | Renewal 30/09
-```
-
-A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
-
-**Item 10.**
-
-```
-Original
-Row 1  Vehicle KX71 HRD | Service 12,000 mi
-Row 2  Vehicle LB19 PTO | Service 24,000 mi
-Row 3  Vehicle MA68 SUE | Service 36,000 mi
-Row 4  Vehicle NP22 WEK | Service 12,000 mi
-
-Copy
-Row 1  Vehicle KX71 HRD | Service 12,000 mi
-Row 2  Vehicle LB19 PTO | Service 24,000 mi
-Row 3  Vehicle MA68 SUE | Service 36,000 mi
-Row 4  Vehicle NP22 WKE | Service 12,000 mi
-```
-
-A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
-
-<details>
-<summary>Answers and explanations, items 6 to 10</summary>
-
-**Item 6: E, no error.** All four rows match.
-
-**Item 7: A, Row 1.** The bed number 12 was copied as 21.
-
-**Item 8: C, Row 3.** The VAT figure £176 was copied as £167.
-
-**Item 9: B, Row 2.** The policy code PX-55128-M was copied as PX-55128-N. M and N look alike at speed.
-
-**Item 10: D, Row 4.** The registration NP22 WEK was copied as NP22 WKE: the last two letters were swapped.
-
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | E | C | D | B | E | A | C | B | D |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | B | E | C |
 
-- **9 to 10 in about 2 minutes:** you are close to the real pace. Keep practising for speed.
-- **9 to 10 but much slower:** accuracy is there. Use the chunking method to speed up.
-- **8 or fewer:** look at which error types you missed and add them to your checklist: swapped digits, one-letter changes, look-alike characters.
+- **3 in about 40 seconds:** you are close to the real pace. Keep practising for speed.
+- **3 but much slower:** accuracy is there. Use the chunking method to speed up.
+- **2 or fewer:** look at which error types you missed and add them to your checklist: swapped digits, one-letter changes, look-alike characters.
+
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
 
 ## Next step
 

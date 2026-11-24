@@ -6,7 +6,7 @@
 
 * [The Saville Swift tests explained](docs/test-overview.md)
 * [Which Swift test do you have?](docs/which-swift-test.md)
-* [15-minute diagnostic](docs/diagnostic.md)
+* [3-minute diagnostic](docs/diagnostic.md)
 
 ## Swift Analysis sub-tests
 

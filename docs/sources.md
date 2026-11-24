@@ -37,7 +37,7 @@ Saville redesigned its website in 2026. Its technical summaries, which give the 
 
 ## What is our own guidance
 
-Methods, traps, pacing targets, study plans and all 78 practice and diagnostic items are our own work. Where a page gives a time target or a tactic, it is our advice, not a Saville rule.
+Methods, traps, pacing targets, study plans and all 24 practice and diagnostic items are our own work. Where a page gives a time target or a tactic, it is our advice, not a Saville rule.
 
 ## Not affiliated
 

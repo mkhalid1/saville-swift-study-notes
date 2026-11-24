@@ -1,13 +1,13 @@
 # Saville Swift Study Notes
 
-A free, complete study guide for Saville Assessment's Swift aptitude tests: **Swift Analysis Aptitude** (verbal, numerical and diagrammatic, 18 minutes) and **Swift Comprehension Aptitude** (verbal, numerical and error checking, 9.5 minutes). It covers how each test works, a clear method for all six sub-tests, 78 original practice items with full explanations, how scoring works, and study plans for a week or a weekend. Facts about the tests come only from Saville's own pages and documents, each one [cited](docs/sources.md).
+A free, complete study guide for Saville Assessment's Swift aptitude tests: **Swift Analysis Aptitude** (verbal, numerical and diagrammatic, 18 minutes) and **Swift Comprehension Aptitude** (verbal, numerical and error checking, 9.5 minutes). It covers how each test works, a clear method for all six sub-tests, 24 original practice items with full explanations, how scoring works, and study plans for a week or a weekend. Facts about the tests come only from Saville's own pages and documents, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift), which follows the Swift Analysis format, or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift), which follows the Swift Analysis format, or the shorter [3-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
 1. **Check which test you have.** Swift Analysis and Swift Comprehension are different tests. Read [which Swift test you have](docs/which-swift-test.md) if your invitation does not say.
-2. **Find your weak sub-test.** Take your track of the [15-minute diagnostic](docs/diagnostic.md). It has three items per sub-test.
+2. **Find your weak sub-test.** Take your track of the [3-minute diagnostic](docs/diagnostic.md). It has one item per sub-test.
 3. **Fix the weakest one first,** using its guide below, then follow the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your link has already arrived.
 
 ## Quick facts
@@ -36,7 +36,7 @@ Sources: Saville's technical summaries for the Analysis and Comprehension ranges
 | Comprehension | Numerical Comprehension | Answer simple questions from work tables | 4 min | [Numerical Comprehension](docs/sections/numerical-comprehension.md) |
 | Comprehension | Error Checking | Find the row where a copy differs from the original | 1.5 min | [Error Checking](docs/sections/error-checking.md) |
 
-Every sub-test guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing, 10 original practice items with explanations, and a score table.
+Every sub-test guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing, 3 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -56,7 +56,7 @@ Every sub-test guide has the same parts: what it measures, how the questions loo
   - [If you are still not sure](docs/which-swift-test.md#if-you-are-still-not-sure)
   - [Where to go next](docs/which-swift-test.md#where-to-go-next)
   - [Practise the format you will face](docs/which-swift-test.md#practise-the-format-you-will-face)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [3-minute diagnostic](docs/diagnostic.md)
   - [Track 1: Swift Analysis Aptitude](docs/diagnostic.md#track-1-swift-analysis-aptitude)
   - [Track 2: Swift Comprehension Aptitude](docs/diagnostic.md#track-2-swift-comprehension-aptitude)
   - [Answers](docs/diagnostic.md#answers)
@@ -185,7 +185,7 @@ Every sub-test guide has the same parts: what it measures, how the questions loo
 
 ## About the practice items
 
-All 78 items (60 in the sub-test guides and 18 in the diagnostic) are original, written for these notes. None are taken from Saville's tests, practice materials or any prep site. Diagrammatic rows and error-checking records are written as text so you can work through them anywhere. They follow the published sub-test descriptions so that the methods transfer.
+All 24 items (18 in the sub-test guides and 6 in the diagnostic) are original, written for these notes. None are taken from Saville's tests, practice materials or any prep site. Diagrammatic rows and error-checking records are written as text so you can work through them anywhere. They follow the published sub-test descriptions so that the methods transfer.
 
 ## Contributing
 

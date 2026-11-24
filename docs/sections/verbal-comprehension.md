@@ -48,7 +48,7 @@ Saville gives 4 minutes for 8 questions: 30 seconds each. Saville's practice tes
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from any Saville test. Choose True, False or Cannot say. Try to finish all ten in 5 minutes.
+These 3 items are original, written for these notes. They are not taken from any Saville test. Choose True, False or Cannot say. Try to finish all three in 90 seconds.
 
 ### Passage 1
 
@@ -56,67 +56,32 @@ These 10 items are original, written for these notes. They are not taken from an
 
 **Item 1.** A member of staff working a five-hour shift gets a 15-minute break.
 
-**Item 2.** Holiday requests should be sent to the head of HR.
+**Item 2.** Name badges must be worn in the staff canteen.
 
-**Item 3.** Name badges must be worn in the staff canteen.
-
-**Item 4.** December holiday requests are decided by length of service.
-
-**Item 5.** Most staff work shifts of six hours or more.
+**Item 3.** December holiday requests are decided by length of service.
 
 <details>
-<summary>Answers and explanations, items 1 to 5</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
 **Item 1: True.** Shifts shorter than six hours get a 15-minute break, and five hours is shorter than six.
 
-**Item 2: False.** Holiday requests go to the duty manager. The statement names a different person.
+**Item 2: Cannot say.** The badge rule covers the shop floor. The passage does not say whether it applies anywhere else. *Why not False:* the passage does not rule it out either.
 
-**Item 3: Cannot say.** The badge rule covers the shop floor. The passage does not say whether it applies anywhere else. *Why not False:* the passage does not rule it out either.
-
-**Item 4: False.** December requests are decided "in order of arrival", which rules out length of service.
-
-**Item 5: Cannot say.** The passage gives break rules for both shift lengths but says nothing about how many staff work each.
-
-</details>
-
-### Passage 2
-
-> The Riverside Leisure Centre pool is closed every Monday morning for cleaning and reopens at 1pm. Swimming lessons for children run on Saturday mornings and must be paid for by the term. Adults can buy a single swim or a monthly pass. The monthly pass also gives free entry to the gym.
-
-**Item 6.** The pool is open on Monday afternoons.
-
-**Item 7.** Children's swimming lessons can be paid for one week at a time.
-
-**Item 8.** Holders of a monthly pass can use the gym without paying extra.
-
-**Item 9.** Single swim tickets cost less on weekdays.
-
-**Item 10.** The pool is closed all day on Mondays.
-
-<details>
-<summary>Answers and explanations, items 6 to 10</summary>
-
-**Item 6: True.** The pool reopens at 1pm on Mondays, which is the afternoon.
-
-**Item 7: False.** Lessons "must be paid for by the term", which rules out weekly payment.
-
-**Item 8: True.** The monthly pass "gives free entry to the gym".
-
-**Item 9: Cannot say.** The passage mentions single swims but gives no prices.
-
-**Item 10: False.** It is closed on Monday mornings and reopens at 1pm.
+**Item 3: False.** December requests are decided "in order of arrival", which rules out length of service.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | True | False | Cannot say | False | Cannot say | True | False | True | Cannot say | False |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | True | Cannot say | False |
 
-- **9 to 10:** good. The challenge now is pace: 30 seconds each.
-- **7 to 8:** check items 3, 5 and 9. Cannot say is where most marks go.
-- **6 or fewer:** for each statement, find and point to the sentence that decides it. If there is none, the answer is Cannot say.
+- **3:** good. The challenge now is pace: 30 seconds each.
+- **2:** check item 2. Cannot say is where most marks go.
+- **0 to 1:** for each statement, find and point to the sentence that decides it. If there is none, the answer is Cannot say.
+
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
 
 ## Next step
 

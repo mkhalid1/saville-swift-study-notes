@@ -62,7 +62,7 @@ Yes. Saville's [practice tests page](https://www.savilleassessment.com/practice-
 
 ## Where can I practise for free?
 
-Saville's own practice tests, the 78 items in this repo, and the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift), which follows the Swift Analysis length and section order.
+Saville's own practice tests, the 24 items in this repo, and the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift), which follows the Swift Analysis length and section order.
 
 ---
 
