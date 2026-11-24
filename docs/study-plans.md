@@ -39,7 +39,7 @@ Keep the list. The same two or three slips usually repeat, and fixing them is wo
 - **Do not practise without a timer.** Swift is about pace. Untimed practice teaches the methods but not the test.
 - **Do not skip the third sub-test** because it is unfamiliar. The total score is what counts, and it includes all three.
 - **Do not memorise items.** Questions come from a bank, so you will not see these ones.
-- **Do not take it on a phone.** Saville says Swift Analysis and Swift Comprehension cannot be taken on a mobile phone.
+- **Do not plan on a phone.** Saville's practice page says Swift Analysis and Swift Comprehension cannot be taken on a mobile phone. Check your own platform's requirements too.
 
 ---
 

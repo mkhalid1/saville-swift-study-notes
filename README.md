@@ -19,7 +19,7 @@ Want to see where you stand first? Take the [free timed Saville Swift practice t
 | Questions | 24 (8 per sub-test) | 24 (8 per sub-test) |
 | Time | 18 minutes (6 per sub-test) | 9.5 minutes (4, 4 and 1.5) |
 | Clock | Separate limits for each group of four questions | Same |
-| Device | Not on a mobile phone | Not on a mobile phone |
+| Device | Not on a mobile phone, per Saville's practice page | Same |
 | Result | One total score plus sub-scores, against a norm group | Same |
 | Pass mark | None published | None published |
 

@@ -14,7 +14,9 @@ The marks usually go on conditions. "Breaks are 30 minutes for shifts of six hou
 
 ## How the questions look
 
-A short passage, then statements to judge. The style in many Saville-style practice materials is the same three options as Verbal Analysis:
+In Saville's own practice test (checked 24 November 2026), Verbal Comprehension has two separately timed sections, each with one passage and four questions. The question types are mixed: True, False or "Not possible to say", multiple-choice questions with four options, and word-meaning questions, such as which word could replace one in the passage.
+
+The practice items in this repo drill the True, False, Cannot say judgement, which is where most marks go:
 
 | Option | Choose it when |
 |---|---|
@@ -22,7 +24,7 @@ A short passage, then statements to judge. The style in many Saville-style pract
 | **False** | The passage says the opposite or rules it out |
 | **Cannot say** | The passage does not cover it |
 
-Saville's own free practice test for Swift Comprehension shows the exact screens for this version. Use it to check the format before the real test.
+For word-meaning questions, pick the option that keeps the sentence's meaning in context, not the closest dictionary match.
 
 ## A method that works
 
@@ -42,7 +44,7 @@ Saville's own free practice test for Swift Comprehension shows the exact screens
 
 ## Timing
 
-Saville gives 4 minutes for 8 questions: 30 seconds each. Questions come in testlets of four with their own time limits, according to the technical summary. If the split is equal, that works out to about 2 minutes per testlet, which is our arithmetic, not a Saville figure. As our guidance: if a statement takes more than 40 seconds, pick the best option and move on.
+Saville gives 4 minutes for 8 questions: 30 seconds each. Saville's practice test splits this into "2 separately timed sections. Each section contains 4 questions which you have 2 minutes to answer." As our guidance: if a statement takes more than 40 seconds, pick the best option and move on.
 
 ## Practice items
 

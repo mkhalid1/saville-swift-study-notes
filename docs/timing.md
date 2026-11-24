@@ -19,15 +19,15 @@ Source: Saville's technical summaries for the Analysis and Comprehension ranges 
 
 ## Testlets: the clock runs in blocks
 
-Saville's technical summaries say the tests support an "individual time limit for groups of four questions (testlets)". Saville does not publish how the time is split between the two testlets in a sub-test. If it is split equally, that works out to:
+Saville's technical summaries say the tests support an "individual time limit for groups of four questions (testlets)". Saville's own practice tests (checked 24 November 2026) show how that works:
 
-| Sub-test time | Per testlet of four, if split equally |
+| Sub-test | Practice test timing |
 |---|---|
-| 6 minutes | about 3 minutes |
-| 4 minutes | about 2 minutes |
-| 1.5 minutes | about 45 seconds |
+| Verbal, Numerical, Diagrammatic Analysis | "2 separately timed sections. Each section contains 4 questions which you have 3 minutes to answer." |
+| Verbal, Numerical Comprehension | 2 separately timed sections of 4 questions, 2 minutes each |
+| Error Checking | "8 questions which you have 1 minute and 30 seconds to answer" |
 
-That is our arithmetic, not a Saville figure. The practical point holds either way: time cannot be borrowed from one block for another, so a stuck question costs you within its own block.
+These are the practice-test timings. Your real test's instructions screen is the final word. The practical point: time cannot be borrowed from one block for another, so a stuck question costs you within its own block.
 
 ## A pacing plan
 

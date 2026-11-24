@@ -16,11 +16,11 @@ The maths is school level: percentages, ratios, averages, rates. What the questi
 
 ## How the questions look
 
-A table or chart of business data, a question and five answer options. Several questions may draw on the same data, so understanding a table once saves time later.
+In Saville's own practice test (checked 24 November 2026), Numerical Analysis has two separately timed sections. Each section gives one data set, such as a table or a pair of charts, and four questions on it, with four answer options each. The practice items in this repo use five options, which makes them a little harder to guess.
 
 Wrong options are often the result of a common slip, such as dividing by the wrong base. If your first answer matches an option, check you did not make one of those slips.
 
-Saville does not state its calculator policy on its live public pages. The PrepClubs practice page for this test says a calculator is allowed in its practice. Check the instructions in your own invitation and platform, and have a calculator and paper ready in case.
+**Calculator:** Saville's practice test lists "Calculator, Pen, Paper" as recommended materials for this sub-test. Check your own instructions for the real test.
 
 ## A method that works
 
@@ -41,7 +41,7 @@ Saville does not state its calculator policy on its live public pages. The PrepC
 
 ## Timing
 
-Saville gives 6 minutes for 8 questions: 45 seconds each. The technical summary says questions come in testlets of four with their own time limits. If those are equal, that works out to about 3 minutes per testlet, which is our arithmetic, not a Saville figure. Numerical items take longer than verbal ones for most people, so aim for 40 seconds on the easy ones to buy time for the two-step ones.
+Saville gives 6 minutes for 8 questions: 45 seconds each. Saville's practice test splits this into "2 separately timed sections. Each section contains 4 questions which you have 3 minutes to answer." Numerical items take longer than verbal ones for most people, so aim for 40 seconds on the easy ones to buy time for the two-step ones.
 
 ## Practice items
 

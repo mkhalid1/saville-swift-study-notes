@@ -15,7 +15,7 @@ Swift tests are short, so small problems on the day cost a lot. Most are easy to
 ## One hour before
 
 - [ ] Quiet room, notifications off, other tabs closed.
-- [ ] Calculator, pen and paper ready, in case your instructions allow them.
+- [ ] Pen and paper ready, plus a calculator for the numerical sub-tests. Saville's practice tests list a calculator as recommended there.
 - [ ] Do one or two of Saville's practice questions to warm up.
 
 ## In the first minute
@@ -29,6 +29,7 @@ Swift tests are short, so small problems on the day cost a lot. Most are easy to
 - [ ] Check the clock every two questions.
 - [ ] Hit your per-question limit, choose and move on.
 - [ ] In Error Checking, compare in chunks and trust "no error" when rows match.
+- [ ] Answer on your own. Saville's practice test notes that "advanced checks are built into the assessment to monitor your completion and detect the potential use of AI".
 - [ ] Do not let a hard sub-test throw you. The total score counts all three.
 
 ## Afterwards

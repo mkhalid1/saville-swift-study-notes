@@ -8,13 +8,15 @@ Error Checking is the third sub-test in **Swift Comprehension Aptitude**. Savill
 
 ## What it measures
 
-This is the sub-test closest to real work in the roles Swift Comprehension is built for: keying an order number, checking an invoice against a delivery note, copying a customer's postcode. The hard part is that reading normally works against you. Your brain fixes "Pemberten" to "Pemberton" before you notice, and it reads 906 and 960 as "about nine hundred".
+This is the sub-test closest to real work in the roles Swift Comprehension is built for: keying an order number, checking an invoice against a delivery note, copying a customer's postcode. The hard part is that reading normally works against you. Your brain fixes "Hollowey" to "Holloway" before you notice, and it reads 906 and 960 as "about nine hundred".
 
 So the skill is to stop reading and start comparing: code against code, digit pair against digit pair, letter against letter. The errors in these items are the kind that slip through in real offices, such as two digits swapped, one letter changed, or M typed for N. Some items have no error at all, and saying so quickly is part of the skill.
 
 ## How the questions look
 
-In Saville-style practice materials, including the PrepClubs Swift Comprehension forms, you see an original list of records, such as invoice numbers, names and amounts, next to a copy. You choose the row in the copy that contains an error, or "no error". Saville's own free practice test shows the exact format for your version.
+In Saville's own practice test (checked 24 November 2026), Error Checking shows the original data, such as a spreadsheet row, above a re-entered copy. You then choose which fields of the copy contain an error. The options are "The entire item is correct" or an error in a named field, such as Company Name, Serial Number, Type or Date. Saville's instructions say: "An item may have more than one error, or no errors at all. Select all options that apply."
+
+**How the items here differ.** The practice items in this repo show four records and ask which one holds the error. They train the same character-by-character comparison, but the real test asks about fields, and an item can have two errors. So in the real test, check every field, even after you have found one error.
 
 ## A method that works
 
@@ -27,14 +29,14 @@ In Saville-style practice materials, including the PrepClubs Swift Comprehension
 ## Traps that cost points
 
 - **Transposed digits.** 906 and 960, 30419902 and 30419092. The digits are all there, in a different order.
-- **One-letter name changes.** Lindqvist and Lindquist, Pemberton and Pemberten.
+- **One-letter name changes.** Lindqvist and Lindquist, Whitcombe and Whitcomb.
 - **Similar characters.** M and N, 6 and 9, 0 and O.
 - **Swapped letter pairs at the end of a code.** WEK and WKE.
 - **Hunting for an error in a perfect copy.** Some items have none.
 
 ## Timing
 
-1.5 minutes for 8 questions is about 11 seconds each. The technical summary says questions come in testlets of four, so if the split is equal that works out to about 45 seconds per group of four, which is our arithmetic, not a Saville figure. At this pace you cannot check everything twice. Check once, carefully, in chunks.
+1.5 minutes for 8 questions is about 11 seconds each. Saville's practice test says: "You will be presented with 8 questions which you have 1 minute and 30 seconds to answer." At this pace you cannot check everything twice. Check once, carefully, in chunks.
 
 ## Practice items
 

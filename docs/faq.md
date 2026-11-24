@@ -34,7 +34,7 @@ It is fast. Saville's technical summaries report average scores of about 61% cor
 
 ## Can I use a calculator?
 
-Saville does not state its calculator policy on its live public pages. Check your instructions and platform, and have one ready in case.
+For the numerical sub-tests, yes in practice: Saville's own practice tests list "Calculator, Pen, Paper" as recommended materials for Numerical Analysis and Numerical Comprehension, and pen and paper only for the other sub-tests. Check your real test's instructions.
 
 ## Is there negative marking?
 

@@ -16,7 +16,9 @@ The maths is simpler than in Numerical Analysis: totals, unit costs, simple perc
 
 ## How the questions look
 
-A small table, a question and five answer options. Typical data: an order list, a staff rota, a stock sheet, a delivery schedule. Saville does not publish its calculator policy on its live public pages, so check your invitation and platform, and have a calculator ready in case.
+In Saville's own practice test (checked 24 November 2026), Numerical Comprehension has two separately timed sections, each with one table or chart and four questions. Most questions have five answer options, and some ask whether a statement about the data is True, False or "Not possible to say". Typical data: an order list, a staff rota, a stock sheet, a pie chart of sales.
+
+**Calculator:** Saville's practice test lists "Calculator, Pen, Paper" as recommended materials for this sub-test. Check your own instructions for the real test.
 
 ## A method that works
 
@@ -36,7 +38,7 @@ A small table, a question and five answer options. Typical data: an order list, 
 
 ## Timing
 
-Saville gives 4 minutes for 8 questions: 30 seconds each, in testlets of four with their own time limits. If the split is equal, that works out to about 2 minutes per testlet, which is our arithmetic, not a Saville figure.
+Saville gives 4 minutes for 8 questions: 30 seconds each, Saville's practice test splits this into "2 separately timed sections. Each section contains 4 questions which you have 2 minutes to answer."
 
 ## Practice items
 

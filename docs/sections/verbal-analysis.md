@@ -14,15 +14,18 @@ So each statement gets one of three judgements. True if the passage says it, in 
 
 ## How the questions look
 
-Each question shows a passage of about four to six sentences on a work topic: a policy, a project, a survey, a service change. Below it is one statement and three options.
+In Saville's own practice test (checked 24 November 2026), Verbal Analysis comes in two separately timed sections. Each section has one passage, or a pair of short sources, followed by four questions. The question types are mixed:
+
+- **True, False or Cannot say.** Saville's wording for the third option is "Not possible to say if the statement is true or false on the basis of the passage".
+- **Multiple choice with four text options,** such as which conclusion follows or what the passage implies.
+
+The practice items in this repo drill the True, False, Cannot say judgement, because the same discipline also decides most multiple-choice items: only the passage counts.
 
 | Option | Choose it when |
 |---|---|
 | **True** | The statement follows from the passage |
 | **False** | The passage contradicts the statement |
 | **Cannot say** | The passage does not give enough information to decide |
-
-This is the style used in many Saville-style practice materials, including the free PrepClubs practice test. Saville's own free practice test shows the exact screens for your version, so try it before the real thing.
 
 ## A method that works
 
@@ -43,7 +46,7 @@ This is the style used in many Saville-style practice materials, including the f
 
 ## Timing
 
-Saville's technical summary gives 6 minutes for 8 questions, which works out to 45 seconds each. It also says the tests use an "individual time limit for groups of four questions (testlets)". Saville does not publish the split, but if each testlet gets an equal share, that would be about 3 minutes per group of four. That is our arithmetic, not a Saville figure. As our guidance: aim for 40 seconds a question, and never spend more than a minute on one.
+Saville's technical summary gives 6 minutes for 8 questions, which works out to 45 seconds each. Saville's practice test splits this into "2 separately timed sections. Each section contains 4 questions which you have 3 minutes to answer." As our guidance: aim for 40 seconds a question, and never spend more than a minute on one.
 
 ## Practice items
 

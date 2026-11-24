@@ -16,9 +16,9 @@ Diagrammatic questions test rule-finding and rule-applying, with no words or num
 
 ## How the questions look
 
-In Saville-style diagrammatic items, including the free PrepClubs practice test, a row of black and white shapes passes through lettered operators. Each operator always does the same thing. You might be asked for the output, the operator that must be missing, or the input that would produce a given output. Saville's own free practice test shows the exact screens.
+In Saville's own practice test (checked 24 November 2026), Diagrammatic Analysis has two separately timed sections of four questions. Saville's instructions describe "a set of operators which change an input sequence of shapes to an output sequence based on a rule. Your task is to identify the correct missing part. The operators work in sequence from left to right." The missing part is shown as a "?" with four picture options. It can be the output, the input or an operator.
 
-In these notes we write rows as text, left to right:
+Saville lists pen and paper, not a calculator, for this sub-test. In these notes we write rows as text, left to right:
 
 | Symbol | Meaning |
 |---|---|
@@ -45,7 +45,7 @@ In these notes we write rows as text, left to right:
 
 ## Timing
 
-Saville gives 6 minutes for 8 questions: 45 seconds each. Learning the operators takes the most time, and that cost is shared across every question that uses them. As our guidance: spend up to a minute understanding the operators the first time, then aim for 30 seconds per question.
+Saville gives 6 minutes for 8 questions: 45 seconds each. Its practice test runs this as two separately timed sections of four questions, 3 minutes each. Learning the operators takes the most time, and that cost is shared across every question that uses them. As our guidance: spend up to a minute understanding the operators the first time, then aim for 30 seconds per question.
 
 ## Practice items
 
