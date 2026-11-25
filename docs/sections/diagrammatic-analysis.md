@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Numerical Analysis](numerical-analysis.md) · Next: [Verbal Comprehension](verbal-comprehension.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Numerical Analysis](numerical-analysis.md) · Next: [Verbal Comprehension](verbal-comprehension.md)
+<!-- /nav:top -->
 
 # Diagrammatic Analysis
 
@@ -116,4 +118,6 @@ Drawn shapes look different from text symbols. See how diagrammatic items look o
 
 ---
 
-<!-- nav:bottom -->← Previous: [Numerical Analysis](numerical-analysis.md) | Next: [Verbal Comprehension](verbal-comprehension.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Numerical Analysis](numerical-analysis.md) | Next: [Verbal Comprehension](verbal-comprehension.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [Which Swift test do you have?](which-swift-test.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [Which Swift test do you have?](which-swift-test.md)
+<!-- /nav:top -->
 
 # The Saville Swift tests explained
 
@@ -55,4 +57,6 @@ Read the section guides for your test, then practise under the clock. The [free 
 
 ---
 
-<!-- nav:bottom -->Next: [Which Swift test do you have?](which-swift-test.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [Which Swift test do you have?](which-swift-test.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

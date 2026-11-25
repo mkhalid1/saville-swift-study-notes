@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Which Swift test do you have?](which-swift-test.md) · Next: [Verbal Analysis](sections/verbal-analysis.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Which Swift test do you have?](which-swift-test.md) · Next: [Verbal Analysis](sections/verbal-analysis.md)
+<!-- /nav:top -->
 
 # 3-minute diagnostic
 
@@ -123,4 +125,6 @@ If you scored well everywhere, your main risk is pace. Read the [timing guide](t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Which Swift test do you have?](which-swift-test.md) | Next: [Verbal Analysis](sections/verbal-analysis.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Which Swift test do you have?](which-swift-test.md) | Next: [Verbal Analysis](sections/verbal-analysis.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

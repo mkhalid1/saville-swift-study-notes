@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [3-minute diagnostic](../diagnostic.md) · Next: [Numerical Analysis](numerical-analysis.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [3-minute diagnostic](../diagnostic.md) · Next: [Numerical Analysis](numerical-analysis.md)
+<!-- /nav:top -->
 
 # Verbal Analysis
 
@@ -91,4 +93,6 @@ Verbal Analysis is timed tightly. Practise it next to the other two sub-tests in
 
 ---
 
-<!-- nav:bottom -->← Previous: [3-minute diagnostic](../diagnostic.md) | Next: [Numerical Analysis](numerical-analysis.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [3-minute diagnostic](../diagnostic.md) | Next: [Numerical Analysis](numerical-analysis.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Numerical Comprehension](numerical-comprehension.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Numerical Comprehension](numerical-comprehension.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Error Checking
 
@@ -125,4 +127,6 @@ Error Checking is only in Swift Comprehension. The free [Saville Swift practice 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Numerical Comprehension](numerical-comprehension.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Numerical Comprehension](numerical-comprehension.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

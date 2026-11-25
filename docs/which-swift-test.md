@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The Saville Swift tests explained](test-overview.md) · Next: [3-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The Saville Swift tests explained](test-overview.md) · Next: [3-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # Which Swift test do you have?
 
@@ -42,4 +44,6 @@ For Swift Analysis, the [free Saville Swift practice test on PrepClubs](https://
 
 ---
 
-<!-- nav:bottom -->← Previous: [The Saville Swift tests explained](test-overview.md) | Next: [3-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The Saville Swift tests explained](test-overview.md) | Next: [3-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

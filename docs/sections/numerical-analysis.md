@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Verbal Analysis](verbal-analysis.md) · Next: [Diagrammatic Analysis](diagrammatic-analysis.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Verbal Analysis](verbal-analysis.md) · Next: [Diagrammatic Analysis](diagrammatic-analysis.md)
+<!-- /nav:top -->
 
 # Numerical Analysis
 
@@ -112,4 +114,6 @@ Numerical Analysis feels very different with a 45-second budget. Try it under th
 
 ---
 
-<!-- nav:bottom -->← Previous: [Verbal Analysis](verbal-analysis.md) | Next: [Diagrammatic Analysis](diagrammatic-analysis.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Verbal Analysis](verbal-analysis.md) | Next: [Diagrammatic Analysis](diagrammatic-analysis.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

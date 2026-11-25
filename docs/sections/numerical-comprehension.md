@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Verbal Comprehension](verbal-comprehension.md) · Next: [Error Checking](error-checking.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Verbal Comprehension](verbal-comprehension.md) · Next: [Error Checking](error-checking.md)
+<!-- /nav:top -->
 
 # Numerical Comprehension
 
@@ -108,4 +110,6 @@ The free [Saville Swift practice test on PrepClubs](https://prepclubs.com/free-p
 
 ---
 
-<!-- nav:bottom -->← Previous: [Verbal Comprehension](verbal-comprehension.md) | Next: [Error Checking](error-checking.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Verbal Comprehension](verbal-comprehension.md) | Next: [Error Checking](error-checking.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

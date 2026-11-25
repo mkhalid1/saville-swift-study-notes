@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Error Checking](sections/error-checking.md) · Next: [Timing and pacing](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Error Checking](sections/error-checking.md) · Next: [Timing and pacing](timing.md)
+<!-- /nav:top -->
 
 # How Swift scoring works
 
@@ -52,4 +54,6 @@ Even though the total matters most, practice scores by sub-test tell you where t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Error Checking](sections/error-checking.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Error Checking](sections/error-checking.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

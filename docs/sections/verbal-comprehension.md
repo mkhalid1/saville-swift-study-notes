@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Diagrammatic Analysis](diagrammatic-analysis.md) · Next: [Numerical Comprehension](numerical-comprehension.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Diagrammatic Analysis](diagrammatic-analysis.md) · Next: [Numerical Comprehension](numerical-comprehension.md)
+<!-- /nav:top -->
 
 # Verbal Comprehension
 
@@ -89,4 +91,6 @@ The free [Saville Swift practice test on PrepClubs](https://prepclubs.com/free-p
 
 ---
 
-<!-- nav:bottom -->← Previous: [Diagrammatic Analysis](diagrammatic-analysis.md) | Next: [Numerical Comprehension](numerical-comprehension.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Diagrammatic Analysis](diagrammatic-analysis.md) | Next: [Numerical Comprehension](numerical-comprehension.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
