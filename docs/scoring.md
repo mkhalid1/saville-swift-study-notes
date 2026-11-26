@@ -50,7 +50,7 @@ Saville's candidate page says the organisation that invited you sees your result
 
 ## Track your sub-test scores in practice
 
-Even though the total matters most, practice scores by sub-test tell you where to improve. The [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) breaks your result down by section.
+Even though the total matters most, practice scores by sub-test tell you where to improve. The [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) breaks your result down by section.
 
 ---
 

@@ -106,11 +106,11 @@ A. 23.3% &nbsp; B. 24.9% &nbsp; C. 26.7% &nbsp; D. 27.5% &nbsp; E. 80.0%
 - **2:** check items 2 and 3. They test the base and weighting slips that cost most people marks.
 - **0 to 1:** slow down, say the operation out loud, and write the figures down before you calculate. Then rebuild speed.
 
-Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift).
 
 ## Next step
 
-Numerical Analysis feels very different with a 45-second budget. Try it under the clock in the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
+Numerical Analysis feels very different with a 45-second budget. Try it under the clock in the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift).
 
 ---
 

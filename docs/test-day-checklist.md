@@ -42,7 +42,7 @@ Swift tests are short, so small problems on the day cost a lot. Most are easy to
 
 ## One last timed run
 
-If you have a day spare, do one more timed run. For Swift Analysis, the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) uses the same length and section order.
+If you have a day spare, do one more timed run. For Swift Analysis, the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) uses the same length and section order.
 
 ---
 

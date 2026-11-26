@@ -49,7 +49,7 @@ Our guidance, not a Saville rule:
 
 ## Practise against the clock
 
-Do at least two timed runs. The [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) runs 24 questions in 18 minutes in the Swift Analysis order. Saville's own practice tests use realistic time limits, according to its technical summaries, and you can repeat them.
+Do at least two timed runs. The [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) runs 24 questions in 18 minutes in the Swift Analysis order. Saville's own practice tests use realistic time limits, according to its technical summaries, and you can repeat them.
 
 ---
 

@@ -83,11 +83,11 @@ These 3 items are original, written for these notes. They are not taken from any
 - **2:** check item 2. Cannot say is where most marks go.
 - **0 to 1:** for each statement, find and point to the sentence that decides it. If there is none, the answer is Cannot say.
 
-Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift).
 
 ## Next step
 
-The free [Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) follows the Swift Analysis style. Its verbal section uses the same True, False, Cannot say judgement, so it is good practice for reading accurately under time, and Saville's own Swift Comprehension practice test shows the shorter format.
+The free [Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) follows the Swift Analysis style. Its verbal section uses the same True, False, Cannot say judgement, so it is good practice for reading accurately under time, and Saville's own Swift Comprehension practice test shows the shorter format.
 
 ---
 

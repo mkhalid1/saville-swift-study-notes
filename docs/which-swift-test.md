@@ -40,7 +40,7 @@ Prepare for both. The verbal and numerical methods overlap, so the extra work is
 
 ## Practise the format you will face
 
-For Swift Analysis, the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) runs 24 questions in 18 minutes in the same section order. For Swift Comprehension, use Saville's own practice test and the items in this repo.
+For Swift Analysis, the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) runs 24 questions in 18 minutes in the same section order. For Swift Comprehension, use Saville's own practice test and the items in this repo.
 
 ---
 

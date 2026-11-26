@@ -53,7 +53,7 @@ Speed with discipline. Every sub-test rewards judging only what is in front of y
 
 ## Practise the real format
 
-Read the section guides for your test, then practise under the clock. The [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) follows the Swift Analysis length and section order, and Saville's own [practice tests](https://www.savilleassessment.com/practice-tests) let you try both versions as often as you like.
+Read the section guides for your test, then practise under the clock. The [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) follows the Swift Analysis length and section order, and Saville's own [practice tests](https://www.savilleassessment.com/practice-tests) let you try both versions as often as you like.
 
 ---
 

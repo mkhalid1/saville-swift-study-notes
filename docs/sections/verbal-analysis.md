@@ -85,11 +85,11 @@ These 3 items are original, written for these notes. They are not taken from any
 - **2:** check whether your miss was the Cannot say item. If so, reread the traps list, especially outside knowledge.
 - **0 to 1:** for every statement, point to the exact sentence that decides it before you answer. If you cannot point to one, the answer is Cannot say.
 
-Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift).
 
 ## Next step
 
-Verbal Analysis is timed tightly. Practise it next to the other two sub-tests in the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift), which follows the Swift Analysis length and section order.
+Verbal Analysis is timed tightly. Practise it next to the other two sub-tests in the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift), which follows the Swift Analysis length and section order.
 
 ---
 

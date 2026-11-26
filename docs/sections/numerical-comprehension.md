@@ -102,11 +102,11 @@ A. 16.7% &nbsp; B. 18.0% &nbsp; C. 20.0% &nbsp; D. 22.2% &nbsp; E. 25.0%
 - **2:** look for unit slips (item 1) and adding slips (item 3).
 - **0 to 1:** write each figure down before calculating. Speed comes after accuracy.
 
-Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift).
 
 ## Next step
 
-The free [Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) follows the Swift Analysis style, so its numerical items are a step harder than Numerical Comprehension. That makes it good stretch practice. Saville's own Swift Comprehension practice test shows the exact format for this version.
+The free [Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) follows the Swift Analysis style, so its numerical items are a step harder than Numerical Comprehension. That makes it good stretch practice. Saville's own Swift Comprehension practice test shows the exact format for this version.
 
 ---
 

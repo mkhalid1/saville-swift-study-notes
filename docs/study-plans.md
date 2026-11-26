@@ -14,7 +14,7 @@ Two plans: one for a week, one for when the link has already arrived. Each has a
 | 2 | [Verbal Analysis](sections/verbal-analysis.md): method, traps, 3 items. | [Verbal Comprehension](sections/verbal-comprehension.md): method, traps, 3 items. |
 | 3 | [Numerical Analysis](sections/numerical-analysis.md): 3 items with a calculator. | [Numerical Comprehension](sections/numerical-comprehension.md): 3 items. |
 | 4 | [Diagrammatic Analysis](sections/diagrammatic-analysis.md): learn the operators, 3 items. | [Error Checking](sections/error-checking.md): 3 items, then redo them faster. |
-| 5 | Timed run: the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift). Read the [timing guide](timing.md). | Timed run: Saville's own Swift Comprehension practice test. Read the [timing guide](timing.md). |
+| 5 | Timed run: the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift). Read the [timing guide](timing.md). | Timed run: Saville's own Swift Comprehension practice test. Read the [timing guide](timing.md). |
 | 6 | Redo your weakest sub-test's items without answers. Then Saville's own Swift Analysis practice test. | Redo your weakest sub-test's items without answers. Then the PrepClubs test for extra verbal and numerical practice. |
 | 7 | One more timed run in the morning. Read the [checklist](test-day-checklist.md). Rest. | Same. |
 

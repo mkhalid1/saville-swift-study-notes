@@ -2,7 +2,7 @@
 
 A free, complete study guide for Saville Assessment's Swift aptitude tests: **Swift Analysis Aptitude** (verbal, numerical and diagrammatic, 18 minutes) and **Swift Comprehension Aptitude** (verbal, numerical and error checking, 9.5 minutes). It covers how each test works, a clear method for all six sub-tests, 24 original practice items with full explanations, how scoring works, and study plans for a week or a weekend. Facts about the tests come only from Saville's own pages and documents, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift), which follows the Swift Analysis format, or the shorter [3-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift), which follows the Swift Analysis format, or the shorter [3-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -180,7 +180,7 @@ Every sub-test guide has the same parts: what it measures, how the questions loo
 - **Use a timer.** Swift is about pace. Each guide gives a target time for its items.
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit before you open them.
 - **Keep a miss log.** The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** For Swift Analysis, the [free practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) runs the full 18 minutes. For both tests, Saville's own [practice tests](https://www.savilleassessment.com/practice-tests) can be repeated as often as you like.
+- **Practise timed.** For Swift Analysis, the [free practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) runs the full 18 minutes. For both tests, Saville's own [practice tests](https://www.savilleassessment.com/practice-tests) can be repeated as often as you like.
 - **Clone or fork it** if you want your own annotated copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

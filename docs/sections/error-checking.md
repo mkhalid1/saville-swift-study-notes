@@ -119,11 +119,11 @@ A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
 - **3 but much slower:** accuracy is there. Use the chunking method to speed up.
 - **2 or fewer:** look at which error types you missed and add them to your checklist: swapped digits, one-letter changes, look-alike characters.
 
-Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift).
 
 ## Next step
 
-Error Checking is only in Swift Comprehension. The free [Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) follows the Swift Analysis style, which has no error checking, so for this sub-test use Saville's own Swift Comprehension practice test and the items above. The PrepClubs test is still useful practice for the verbal and numerical parts.
+Error Checking is only in Swift Comprehension. The free [Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) follows the Swift Analysis style, which has no error checking, so for this sub-test use Saville's own Swift Comprehension practice test and the items above. The PrepClubs test is still useful practice for the verbal and numerical parts.
 
 ---
 

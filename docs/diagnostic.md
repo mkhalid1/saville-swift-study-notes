@@ -121,7 +121,7 @@ A. Row 1 &nbsp; B. Row 2 &nbsp; C. Row 3 &nbsp; D. Row 4 &nbsp; E. No error
 | [Numerical Analysis](sections/numerical-analysis.md) | [Numerical Comprehension](sections/numerical-comprehension.md) |
 | [Diagrammatic Analysis](sections/diagrammatic-analysis.md) | [Error Checking](sections/error-checking.md) |
 
-If you scored well everywhere, your main risk is pace. Read the [timing guide](timing.md) and try the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift) under the clock.
+If you scored well everywhere, your main risk is pace. Read the [timing guide](timing.md) and try the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift) under the clock.
 
 ---
 

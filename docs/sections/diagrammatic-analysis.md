@@ -110,11 +110,11 @@ A. Operator A &nbsp; B. Operator B &nbsp; C. Operator C &nbsp; D. Operator D &nb
 - **2:** your slips are probably in chains (item 1) or working backwards (item 2). Write the row down after every step.
 - **0 to 1:** go back to the examples table and make sure each rule fits both of its examples before using it.
 
-Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift).
+Want more? The free timed Saville Swift style practice test on PrepClubs has the full 24 questions, scored by section: [prepclubs.com/free-practice-tests/saville-swift](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift).
 
 ## Next step
 
-Drawn shapes look different from text symbols. See how diagrammatic items look on screen in the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=saville-swift), and try Saville's own practice test too.
+Drawn shapes look different from text symbols. See how diagrammatic items look on screen in the [free Saville Swift practice test on PrepClubs](https://prepclubs.com/free-practice-tests/saville-swift?utm_source=github&utm_medium=referral&utm_campaign=hbfc7r&utm_content=saville-swift), and try Saville's own practice test too.
 
 ---
 
